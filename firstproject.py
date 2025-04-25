@@ -12,7 +12,7 @@ import streamlit as st
 import ee
 import folium
 
-from streamlit_folium import st_folium
+
 import datetime
 
 # Initialize GEE
