@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1Xvo04g5kMRlsa8hsoisfdP15JGcCXwPx
 """
 
-!pip install streamlit folium geemap
+
 import streamlit as st
 import ee
 import folium
-!pip install streamlit folium streamlit-folium geemap
+
 from streamlit_folium import st_folium
 import datetime
 
